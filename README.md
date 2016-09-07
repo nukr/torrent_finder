@@ -2,7 +2,7 @@
 
 ## installation
 
-[download]()
+[download](https://github.com/nukr/torrent_finder/releases/download/v0.1.2/torrent_finder.macOS.zip)
 
 ## support
 
