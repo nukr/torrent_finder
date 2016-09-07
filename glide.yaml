@@ -1,0 +1,4 @@
+package: github.com/nukr/torrent_finder
+import:
+- package: github.com/PuerkitoBio/goquery
+  version: ^1.0.1
